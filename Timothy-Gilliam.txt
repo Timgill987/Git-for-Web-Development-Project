@@ -1,4 +1,6 @@
-  1. What is Semantic HTML? 
+ https://codepen.io/Timgill/pen/bGGoEyK
+
+ 1. What is Semantic HTML? 
 Semantic HTML are tags like <p> and <header> that help give meaning to elements to be readable for humans on a webpage.
     2. What is HTML used for? 
 HTML is used to mmark up text on a web page so that it is readable.
